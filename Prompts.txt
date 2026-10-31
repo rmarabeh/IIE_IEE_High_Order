@@ -1,0 +1,9 @@
+In the main_reference.pdf, three additive splitting methods of orders 1 to 4 has been derived.
+The goal here is to derive and develop IIE and IEE methods of order 5 and 6 following the same approach and stability analysis in the main_reference. 
+Then test the order of convergence and work precision performance with the other IEE and IIE methods and also compare with the IMEX 5 and 6 order methods. Please choose the value of the free parameters of the method so it outperforms other methods.
+Please prepare a matlab and python codes to performance all experiments.
+
+The performance analysis can be done using the same models in the main_references and all models in Presuss_2022.pdf.. If the models in Preuss_2022.pdf are not three terms (like advection diffusion only ) then add a therd term using manufacturing solution method.
+
+All results should be written in latex format (use elsiver templet) in a scientific way to be published with nice literature review.
+Many Thanks
